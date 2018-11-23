@@ -1,0 +1,15 @@
+{
+  "name": "serialnode",
+  "version": "1.0.0",
+  "description": "Program to connect a microcontroller to a web browser using node.js, html, and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bobby Joe",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^7.0.2",
+    "ws": "^6.1.2"
+  }
+}
